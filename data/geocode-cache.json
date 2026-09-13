@@ -3,28 +3,28 @@
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-09-12T20:36:36.077Z",
+    "checkedAt": "2026-09-13T20:53:45.502Z",
     "source": "Google Geocoding API"
   },
   "419-0124 静岡県田方郡函南町塚本143-1 TSUTAYA 函南店": {
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-09-12T20:36:36.289Z",
+    "checkedAt": "2026-09-13T20:53:45.668Z",
     "source": "Google Geocoding API"
   },
   "104-0061 東京都中央区銀座6丁目 コナミデジタルエンタテインメント(DF)": {
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-09-12T20:36:36.456Z",
+    "checkedAt": "2026-09-13T20:53:45.832Z",
     "source": "Google Geocoding API"
   },
   "104-0061 東京都中央区銀座6丁目 コナミデジタルエンタテインメント(チーム戦)": {
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-09-12T20:36:36.651Z",
+    "checkedAt": "2026-09-13T20:53:45.999Z",
     "source": "Google Geocoding API"
   },
   "210-0023 神奈川県川崎市川崎区小川町2-3川崎アオキビル第10 4階 カードラボ 川崎店": {
@@ -38,7 +38,7 @@
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-09-12T20:36:36.810Z",
+    "checkedAt": "2026-09-13T20:53:46.161Z",
     "source": "Google Geocoding API"
   }
 }
