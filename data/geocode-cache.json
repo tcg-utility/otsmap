@@ -3,7 +3,7 @@
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-10-22T21:39:01.422Z",
+    "checkedAt": "2026-10-24T20:53:26.935Z",
     "source": "Google Geocoding API"
   },
   "419-0124 静岡県田方郡函南町塚本143-1 TSUTAYA 函南店": {
@@ -17,14 +17,14 @@
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-10-22T21:39:01.785Z",
+    "checkedAt": "2026-10-24T20:53:27.260Z",
     "source": "Google Geocoding API"
   },
   "104-0061 東京都中央区銀座6丁目 コナミデジタルエンタテインメント(チーム戦)": {
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-10-22T21:39:01.975Z",
+    "checkedAt": "2026-10-24T20:53:27.422Z",
     "source": "Google Geocoding API"
   },
   "210-0023 神奈川県川崎市川崎区小川町2-3川崎アオキビル第10 4階 カードラボ 川崎店": {
@@ -38,14 +38,28 @@
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-10-22T21:39:02.155Z",
+    "checkedAt": "2026-10-24T20:53:27.742Z",
     "source": "Google Geocoding API"
   },
   "270-0023 千葉県松戸市八ヶ崎２－８－１テラスモール松戸３階 TSUTAYA Trading Card 松戸": {
     "latitude": null,
     "longitude": null,
     "status": "REQUEST_DENIED",
-    "checkedAt": "2026-10-22T21:39:01.605Z",
+    "checkedAt": "2026-10-24T20:53:27.098Z",
+    "source": "Google Geocoding API"
+  },
+  "194-0013 東京都町田市原町田六丁目6番14号町田ジョルナ B1階 01・02-2区画 カードラボ 町田店": {
+    "latitude": null,
+    "longitude": null,
+    "status": "REQUEST_DENIED",
+    "checkedAt": "2026-10-24T20:53:27.581Z",
+    "source": "Google Geocoding API"
+  },
+  "963-8032 福島県郡山市下亀田16-16 TSUTAYA 桑野店": {
+    "latitude": null,
+    "longitude": null,
+    "status": "REQUEST_DENIED",
+    "checkedAt": "2026-10-24T20:53:27.904Z",
     "source": "Google Geocoding API"
   }
 }
